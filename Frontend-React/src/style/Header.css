@@ -1,0 +1,33 @@
+#home-link {
+    color: black
+}
+
+#home-link:hover {
+    cursor: pointer;
+    color: #00B5AD;
+    transition: 0.15s;
+}
+
+
+#home-header:hover {
+    cursor: pointer;
+    color: #00B5AD;
+    transition: 0.15s;
+}
+
+#todolist-header:hover {
+    cursor: pointer;
+    color: #00B5AD;
+    transition: 0.15s;
+}
+
+#todo-list {
+    color: black
+}
+
+#todo-list:hover {
+    cursor: pointer;
+    color: #00B5AD;
+    transition: 0.15s;
+
+}
